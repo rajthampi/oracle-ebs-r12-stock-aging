@@ -23,7 +23,7 @@ This helps supply chain and finance teams quickly identify how long inventory ha
 ---
 
 ## 📊 Features
-- Produces a **pivoted ageing report** with **7 time buckets** (e.g., 0–30 days, 31–60 days, …, >360 days).  
+- Produces a **pivoted ageing report** with **7 time buckets**.  
 - Supports **multi-organization inventory structures**.  
 - Compatible with **FIFO valuation** and **average costing** setups.  
 - Can be extended for **custom buckets** or **organization-specific rules**.  
