@@ -1,0 +1,12 @@
+Author: Rajesh Thampi
+Date: 05-AUG-2026
+Audience: Inventory organizations that follow FIFO methods and average costing.
+
+There are 2 SQL files for generating the ageing/aging.
+
+1# Main.sql depends upon custom objects created and the results could be instantly available.
+
+2# noDBA-Main.sql for users or environments were creating custom objects are not allowed or authorizations required. Be aware that, this script could run forever, especially for organizations those have large volume of inventory movements.
+
+
+Refer README.md for more details.
